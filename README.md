@@ -6,4 +6,6 @@ This repository includes the main scripts for my master thesis and on-going proj
 
 Mechanism of action classification script for two SPECS5K subsets. Main script for the analysis:
 
-''' mlp_classification.py '''
+''' 
+mlp_classification.py 
+'''
