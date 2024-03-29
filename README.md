@@ -4,8 +4,8 @@ This repository includes the main scripts for my master thesis and on-going proj
 
 ### Supervised analysis
 
-Mechanism of action classification script for two SPECS5K subsets. Main script for the analysis:
+Mechanism of action classification script for two SPECS5K subsets. Main training script:
 
-''' 
+```
 mlp_classification.py 
-'''
+```
